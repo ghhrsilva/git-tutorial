@@ -1,2 +1,2 @@
 console.log('more.js')
-cosole.log('Version 30')
+cosole.log('Version 3')
